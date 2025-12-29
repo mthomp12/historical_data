@@ -1,0 +1,21 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Aroldis Chapman,Boston Red Sox,0.02-0.02,$5500,0.27,0.02,0.02,1.55,0,0.19,0.36,0.24,0.07,0.06,0.02,0.11,0.16,0.98,,1.5,BOS @ PHI
+Lucas Giolito,Boston Red Sox,0.25-0.46,$8700,2.82,0.25,0.46,5.01,1,0,5.45,5.54,3.39,3.04,0.99,1.75,4.82,1.34,,24.5,BOS @ PHI
+Jesus Luzardo,Philadelphia Phillies,0.43-0.23,$9700,3.66,0.43,0.23,3.17,1,0,5.7,4.68,2.36,2.01,0.53,1.49,6.57,1.08,,35.5,BOS @ PHI
+Jordan Romano,Philadelphia Phillies,0.03-0.03,$5500,0.27,0.03,0.03,6.84,0,0.31,0.57,0.71,0.47,0.43,0.11,0.24,0.3,1.67,,1.5,BOS @ PHI
+Zach Eflin,Baltimore Orioles,0.3-0.23,$7900,2.52,0.3,0.23,3.87,1,0,4.29,4.19,2.05,1.84,0.63,1.1,3.1,1.23,,19.9,BAL @ CLE
+Emmanuel Clase,Cleveland Guardians,0.02-0.03,$5500,0.29,0.02,0.03,2.47,0,0.25,0.48,0.36,0.14,0.13,0.01,0.1,0.16,0.97,,1.6,BAL @ CLE
+Felix Bautista,Baltimore Orioles,0.02-0.03,$5500,0.36,0.02,0.03,2.7,0,0.24,0.46,0.36,0.15,0.14,0.04,0.28,0.32,1.41,,2,BAL @ CLE
+Slade Cecconi,Cleveland Guardians,0.31-0.4,$8500,3.02,0.31,0.4,4.3,1,0,5.34,5.05,2.92,2.55,0.88,1.64,4.68,1.25,,25.7,BAL @ CLE
+Patrick Corbin,Texas Rangers,0.31-0.27,$7800,3.36,0.31,0.27,4.31,1,0,5.49,5.32,3.08,2.63,0.63,1.61,4.67,1.26,,26.2,OAK @ TEX
+Chris Martin,Texas Rangers,0.03-0.03,$5500,0.35,0.03,0.03,2.53,0,0.29,0.54,0.41,0.16,0.15,0.06,0.09,0.17,0.93,,1.9,OAK @ TEX
+JP Sears,Oakland Athletics,0.23-0.37,$7600,2.93,0.23,0.37,5.38,1,0,5.28,5.53,3.67,3.16,0.86,1.69,4.44,1.37,,22.3,OAK @ TEX
+Mason Miller,Oakland Athletics,0.02-0.02,$5500,0.29,0.02,0.02,3.77,0,0.21,0.39,0.36,0.18,0.16,0.05,0.19,0.27,1.39,,1.6,OAK @ TEX
+Chris Bassitt,Toronto Blue Jays,0.24-0.35,$8300,3.11,0.24,0.35,3.87,1,0,4.88,4.39,2.28,2.1,0.76,1.51,4.78,1.21,,25.8,NYY @ TOR
+Jeff Hoffman,Toronto Blue Jays,0.02-0.02,$5500,0.24,0.02,0.02,4.39,0,0.22,0.4,0.39,0.21,0.2,0.09,0.11,0.18,1.24,,1.3,NYY @ TOR
+Max Fried,New York Yankees,0.38-0.28,$9600,3.26,0.38,0.28,3.39,1,0,5.58,4.77,2.36,2.1,0.66,1.71,5.45,1.16,,31.3,NYY @ TOR
+Devin Williams,New York Yankees,0.03-0.03,$5500,0.36,0.03,0.03,4.18,0,0.28,0.53,0.5,0.27,0.25,0.03,0.22,0.33,1.37,,2,NYY @ TOR
+Pete Fairbanks,Tampa Bay Rays,0.03-0.04,$5500,0.42,0.03,0.04,2.95,0,0.33,0.61,0.5,0.22,0.2,0.02,0.24,0.29,1.21,,2.3,CHW @ TB
+Taj Bradley,Tampa Bay Rays,0.38-0.23,$9000,3.41,0.38,0.23,3.44,1,0,5.44,4.61,2.29,2.08,0.65,1.5,5.39,1.12,,30.7,CHW @ TB
+Jordan Leasure,Chicago White Sox,0.02-0.02,$5500,0.22,0.02,0.02,4.56,0,0.17,0.32,0.32,0.18,0.16,0.05,0.19,0.2,1.57,,1.2,CHW @ TB
+Jonathan Cannon,Chicago White Sox,0.26-0.42,$7300,2.99,0.26,0.42,4.93,1,0,5.34,5.23,3.18,2.93,0.97,1.68,3.79,1.29,,21.8,CHW @ TB

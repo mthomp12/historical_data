@@ -1,0 +1,11 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Andres Munoz,Seattle Mariners,0.03-0.04,$5500,0.56,0.03,0.04,1.54,0,0.36,0.67,0.44,0.12,0.11,0.04,0.31,0.4,1.13,,3.1,CHW @ SEA
+Logan Gilbert,Seattle Mariners,0.49-0.12,$10200,3.67,0.49,0.12,2.82,1,0,5.6,4.5,1.93,1.76,0.68,1.11,6.87,1,,37.4,CHW @ SEA
+Jordan Leasure,Chicago White Sox,0.01-0.02,$5500,0.16,0.01,0.02,4.62,0,0.14,0.26,0.26,0.15,0.13,0.05,0.14,0.15,1.54,,0.9,CHW @ SEA
+Shane Smith,Chicago White Sox,0.07-0.38,$7600,2.08,0.07,0.38,5.51,1,0,3.74,4.15,2.49,2.29,0.77,1.97,3.49,1.64,,15.8,CHW @ SEA
+Brady Singer,Cincinnati Reds,0.22-0.35,$8500,3.42,0.22,0.35,4.04,1,0,5.52,4.88,2.64,2.48,0.62,1.67,5.58,1.19,,29.1,CIN @ PIT
+Paul Skenes,Pittsburgh Pirates,0.33-0.21,$10700,3.23,0.33,0.21,3.04,1,0,5.69,4.69,2.15,1.92,0.44,1.52,6.37,1.09,,34.6,CIN @ PIT
+Carlos Carrasco,Atlanta Braves,0.23-0.3,$7000,3.16,0.23,0.3,4.66,1,0,5.18,4.73,2.97,2.68,0.8,1.6,3.94,1.22,,22.1,MIA @ ATL
+Tyler Kinley,Atlanta Braves,0.02-0.02,$5500,0.25,0.02,0.02,5.64,0,0.22,0.42,0.46,0.28,0.26,0.05,0.25,0.28,1.71,,1.4,MIA @ ATL
+Calvin Faucher,Miami Marlins,0.03-0.03,$5500,0.36,0.03,0.03,3.5,0,0.28,0.52,0.45,0.22,0.2,0.04,0.23,0.29,1.33,,2,MIA @ ATL
+Eury Perez,Miami Marlins,0.3-0.24,$9400,2.97,0.3,0.24,4.14,1,0,5.2,4.38,2.61,2.39,0.58,2.09,5.32,1.24,,27.9,MIA @ ATL

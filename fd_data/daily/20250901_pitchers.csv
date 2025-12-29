@@ -1,0 +1,13 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Patrick Corbin,Texas Rangers,0.29-0.33,$7500,3.12,0.29,0.33,4.67,1,0,5.17,4.83,3.01,2.68,0.84,1.57,4.2,1.24,,23.4,TEX @ ARI
+Chris Martin,Texas Rangers,0.02-0.02,$5500,0.24,0.02,0.02,2.53,0,0.21,0.39,0.3,0.12,0.11,0.05,0.06,0.13,0.93,,1.3,TEX @ ARI
+A.J. Puk,Arizona Diamondbacks,0.03-0.03,$5500,0.33,0.03,0.03,3.34,0,0.29,0.54,0.46,0.22,0.2,0.11,0.14,0.21,1.12,,1.8,TEX @ ARI
+Ryne Nelson,Arizona Diamondbacks,0.3-0.25,$7700,3.21,0.3,0.25,3.85,1,0,4.94,4.29,2.39,2.12,0.52,1.29,4.21,1.13,,24.7,TEX @ ARI
+Luis Castillo,Seattle Mariners,0.28-0.39,$8700,3.22,0.28,0.39,4.09,1,0,5.63,5.56,2.88,2.56,0.73,1.37,5.04,1.23,,28,SEA @ TB
+Pete Fairbanks,Tampa Bay Rays,0.02-0.03,$5500,0.29,0.02,0.03,2.92,0,0.24,0.45,0.37,0.16,0.15,0.04,0.14,0.18,1.12,,1.6,SEA @ TB
+Andres Munoz,Seattle Mariners,0.02-0.03,$5500,0.38,0.02,0.03,1.75,0,0.26,0.48,0.33,0.1,0.09,0.02,0.21,0.28,1.13,,2.1,SEA @ TB
+Shane Baz,Tampa Bay Rays,0.37-0.29,$8200,3.55,0.37,0.29,4.12,1,0,5.21,4.77,2.57,2.38,0.82,1.72,5.53,1.24,,29.1,SEA @ TB
+Dylan Cease,San Diego Padres,0.29-0.25,$9400,3.34,0.29,0.25,3.08,1,0,4.81,3.81,1.82,1.65,0.58,1.78,6.11,1.16,,31.4,BAL @ SD
+Felix Bautista,Baltimore Orioles,0.02-0.02,$5500,0.31,0.02,0.02,2.7,0,0.2,0.37,0.29,0.12,0.11,0.03,0.23,0.27,1.41,,1.7,BAL @ SD
+Kyle Bradish,Baltimore Orioles,0.28-0.28,$10000,2.5,0.28,0.28,3.87,1,0,4.44,4.24,2.13,1.91,0.65,1.53,4.79,1.3,,25,BAL @ SD
+Mason Miller,San Diego Padres,0.03-0.03,$5500,0.44,0.03,0.03,3.17,0,0.3,0.56,0.47,0.21,0.2,0.06,0.27,0.38,1.32,,2.4,BAL @ SD

@@ -1,0 +1,15 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Ryan Pressly,Chicago Cubs,0.03-0.03,N/A,N/A,0.03,0.03,4.23,0,0.27,0.51,0.48,0.26,0.24,0.07,0.19,0.25,1.34,,1.7,SD @ CHC
+Matt Boyd,Chicago Cubs,0.35-0.26,$7700,3.81,0.35,0.26,3.17,1,0,5.56,4.57,2.21,1.96,0.68,1.51,4.68,1.09,,29.3,SD @ CHC
+Nick Pivetta,San Diego Padres,0.29-0.37,$8600,3.64,0.29,0.37,4.1,1,0,5.83,4.96,2.8,2.65,1.03,1.68,6.03,1.14,,31.3,SD @ CHC
+Mason Miller,San Diego Padres,0.02-0.02,$5500,0.35,0.02,0.02,2.61,0,0.23,0.43,0.33,0.13,0.12,0.04,0.2,0.29,1.25,,1.9,SD @ CHC
+Emmanuel Clase,Cleveland Guardians,0.02-0.02,$5500,0.24,0.02,0.02,2.84,0,0.2,0.38,0.3,0.13,0.12,0.01,0.09,0.14,1.04,,1.3,DET @ CLE
+Tarik Skubal,Detroit Tigers,0.52-0.22,$10300,3.84,0.52,0.22,2.53,1,0,5.78,4.41,1.79,1.63,0.45,1.34,7.12,0.99,,39.6,DET @ CLE
+Jason Foley,Detroit Tigers,0.03-0.03,$5500,0.35,0.03,0.03,3.28,0,0.3,0.55,0.47,0.22,0.2,0.05,0.2,0.23,1.21,,1.9,DET @ CLE
+Gavin Williams,Cleveland Guardians,0.25-0.53,$8400,3.4,0.25,0.53,4.37,1,0,5.36,4.83,2.96,2.6,0.66,2.39,5.74,1.35,,28.6,DET @ CLE
+Blake Snell,Los Angeles Dodgers,0.35-0.25,$9700,3.31,0.35,0.25,3.34,1,0,5.44,4.76,2.2,2.02,0.59,2.23,5.95,1.29,,32.1,CIN @ LAD
+Hunter Greene,Cincinnati Reds,0.24-0.39,$9200,3.21,0.24,0.39,4.18,1,0,5.51,5.1,2.77,2.56,1.11,1.95,5.84,1.28,,29.5,CIN @ LAD
+Aroldis Chapman,Boston Red Sox,0.02-0.02,$5500,0.29,0.02,0.02,1.57,0,0.21,0.39,0.26,0.07,0.07,0.02,0.12,0.17,0.98,,1.6,BOS @ NYY
+Max Fried,New York Yankees,0.35-0.28,$8800,3.56,0.35,0.28,3.83,1,0,5.93,5.13,2.87,2.53,0.7,1.77,5.63,1.16,,31.3,BOS @ NYY
+David Bednar,New York Yankees,0.03-0.03,$5500,0.36,0.03,0.03,2.82,0,0.29,0.54,0.44,0.19,0.17,0.04,0.18,0.22,1.13,,2,BOS @ NYY
+Garrett Crochet,Boston Red Sox,0.24-0.35,$10200,3.08,0.24,0.35,3.9,1,0,5.68,5.11,2.74,2.46,0.72,1.77,6.1,1.21,,31.4,BOS @ NYY

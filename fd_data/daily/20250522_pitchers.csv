@@ -1,0 +1,19 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Jack Flaherty,Detroit Tigers,0.41-0.24,$8800,3.8,0.41,0.24,3.37,1,0,5.59,4.71,2.19,2.09,0.7,1.15,6.13,1.05,,33.4,CLE @ DET
+Emmanuel Clase,Cleveland Guardians,0.02-0.02,$5500,0.29,0.02,0.02,2.38,0,0.2,0.37,0.28,0.11,0.1,0.01,0.07,0.24,0.94,,1.6,CLE @ DET
+Jason Foley,Detroit Tigers,0.03-0.03,$5500,0.42,0.03,0.03,3.22,0,0.3,0.56,0.48,0.22,0.2,0.05,0.19,0.33,1.19,,2.3,CLE @ DET
+Tanner Bibee,Cleveland Guardians,0.26-0.42,$8400,3.18,0.26,0.42,4.28,1,0,5.59,5.37,2.87,2.66,0.96,1.73,4.84,1.27,,26.7,CLE @ DET
+Aroldis Chapman,Boston Red Sox,0.02-0.03,$5500,0.45,0.02,0.03,2.93,0,0.25,0.47,0.38,0.17,0.15,0.04,0.24,0.47,1.32,,2.5,BAL @ BOS
+Lucas Giolito,Boston Red Sox,0.19-0.4,$7700,2.47,0.19,0.4,5.85,1,0,4.7,5.33,3.23,3.06,1.05,1.48,3.92,1.45,,19,BAL @ BOS
+Felix Bautista,Baltimore Orioles,0.02-0.03,$5500,0.38,0.02,0.03,3.75,0,0.25,0.46,0.42,0.21,0.19,0.05,0.24,0.4,1.43,,2.1,BAL @ BOS
+Cade Povich,Baltimore Orioles,0.41-0.24,$8100,3.17,0.41,0.24,4.63,1,0,5.43,5.45,3.11,2.79,0.78,1.71,4.62,1.32,,25.7,BAL @ BOS
+David Bednar,Pittsburgh Pirates,0.02-0.03,$5500,0.25,0.02,0.03,5.44,0,0.23,0.43,0.47,0.28,0.26,0.05,0.15,0.27,1.45,,1.4,MIL @ PIT
+Trevor Megill,Milwaukee Brewers,0.03-0.03,$5500,0.45,0.03,0.03,2.55,0,0.27,0.5,0.39,0.15,0.14,0.04,0.2,0.42,1.17,,2.5,MIL @ PIT
+Raisel Iglesias,Atlanta Braves,0.02-0.03,$5500,0.33,0.02,0.03,3.75,0,0.23,0.44,0.4,0.2,0.18,0.08,0.09,0.31,1.12,,1.8,ATL @ WSH
+Trevor Williams,Washington Nationals,0.28-0.35,$7400,3.68,0.28,0.35,3.7,1,0,5.4,5.03,2.51,2.22,0.51,1.47,4.65,1.2,,27.2,ATL @ WSH
+Kyle Finnegan,Washington Nationals,0.03-0.03,$5500,0.4,0.03,0.03,3.16,0,0.26,0.49,0.41,0.19,0.17,0.04,0.19,0.34,1.22,,2.2,ATL @ WSH
+AJ Smith-Shawver,Atlanta Braves,0.34-0.32,$9800,2.72,0.34,0.32,3.98,1,0,5.09,4.85,2.49,2.25,0.74,1.78,4.84,1.3,,26.7,ATL @ WSH
+Lance McCullers,Houston Astros,0.18-0.34,$6600,3.36,0.18,0.34,4.05,1,0,4.72,4.33,2.4,2.13,0.7,1.87,3.98,1.31,,22.2,SEA @ HOU
+Josh Hader,Houston Astros,0.02-0.02,$5500,0.4,0.02,0.02,2.85,0,0.23,0.42,0.34,0.15,0.13,0.06,0.13,0.41,1.12,,2.2,SEA @ HOU
+Andres Munoz,Seattle Mariners,0.03-0.03,$5500,0.53,0.03,0.03,1.16,0,0.27,0.51,0.31,0.07,0.07,0.03,0.21,0.45,1.03,,2.9,SEA @ HOU
+George Kirby,Seattle Mariners,0.31-0.22,$9200,2.79,0.31,0.22,3.69,1,0,4.91,4.28,2.29,2.01,0.7,1.56,4.53,1.19,,25.7,SEA @ HOU

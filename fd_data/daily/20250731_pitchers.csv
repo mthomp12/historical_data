@@ -1,0 +1,7 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Chris Martin,Texas Rangers,0.02-0.02,$5500,0.24,0.02,0.02,2.53,0,0.2,0.36,0.28,0.11,0.1,0.04,0.06,0.12,0.93,,1.3,TEX @ SEA
+Andres Munoz,Seattle Mariners,0.03-0.03,$5500,0.47,0.03,0.03,1.44,0,0.3,0.57,0.37,0.1,0.09,0.02,0.25,0.32,1.09,,2.6,TEX @ SEA
+George Kirby,Seattle Mariners,0.38-0.26,$9400,3.36,0.38,0.26,3.24,1,0,5.6,4.77,2.35,2.02,0.77,1.44,5.54,1.11,,31.6,TEX @ SEA
+Kumar Rocker,Texas Rangers,0.23-0.38,$8200,2.6,0.23,0.38,5.05,1,0,4.87,5.43,3,2.73,0.71,1.88,4.14,1.5,,21.3,TEX @ SEA
+Carlos Carrasco,Atlanta Braves,0.16-0.33,$7000,2.44,0.16,0.33,5.27,1,0,4.14,4.26,2.6,2.43,0.88,1.35,3.35,1.35,,17.1,ATL @ CIN
+Andrew Abbott,Cincinnati Reds,0.36-0.21,$10200,2.55,0.36,0.21,4.07,1,0,5.08,4.37,2.55,2.3,0.63,1.34,4.54,1.12,,26,ATL @ CIN

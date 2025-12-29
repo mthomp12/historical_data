@@ -1,0 +1,9 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Justin Verlander,San Francisco Giants,0.26-0.27,$8200,3.21,0.26,0.27,3.4,1,0,5.05,4.58,2.09,1.91,0.56,1.53,4.43,1.21,,26.3,STL @ SF
+Michael McGreevy,St. Louis Cardinals,0.31-0.28,$7700,3.13,0.31,0.28,3.7,1,0,5.43,5.6,2.47,2.23,0.54,1.22,3.59,1.26,,24.1,STL @ SF
+Chris Sale,Atlanta Braves,0.46-0.17,$10800,3.79,0.46,0.17,2.7,1,0,6.01,4.36,2.04,1.8,0.49,1.23,7.62,0.93,,40.9,WSH @ ATL
+MacKenzie Gore,Washington Nationals,0.17-0.45,$8600,2.94,0.17,0.45,5.22,1,0,4.9,4.61,3.15,2.84,0.75,2.34,5.63,1.42,,25.3,WSH @ ATL
+Nick Pivetta,San Diego Padres,0.32-0.31,$9400,3.63,0.32,0.31,3.18,1,0,5.83,4.97,2.21,2.06,0.82,1.54,6.32,1.12,,34.1,MIL @ SD
+Freddy Peralta,Milwaukee Brewers,0.26-0.31,$10300,3.3,0.26,0.31,3.22,1,0,5.6,4.41,2.21,2.01,0.69,2.19,6.61,1.18,,34,MIL @ SD
+Trevor Megill,Milwaukee Brewers,0.02-0.03,$5500,0.33,0.02,0.03,2.57,0,0.25,0.46,0.36,0.14,0.13,0.03,0.17,0.22,1.14,,1.8,MIL @ SD
+Mason Miller,San Diego Padres,0.02-0.03,$5500,0.38,0.02,0.03,2.7,0,0.25,0.47,0.37,0.15,0.14,0.04,0.22,0.32,1.26,,2.1,MIL @ SD

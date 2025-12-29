@@ -1,0 +1,27 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Michael Wacha,Kansas City Royals,0.38-0.26,$8800,3.14,0.38,0.26,3.64,1,0,5.47,4.75,2.48,2.21,0.53,1.55,4.47,1.15,,27.6,TEX @ KC
+Chris Martin,Texas Rangers,0.02-0.02,$5500,0.25,0.02,0.02,2.53,0,0.22,0.4,0.31,0.12,0.11,0.05,0.06,0.13,0.93,,1.4,TEX @ KC
+Carlos Estevez,Kansas City Royals,0.03-0.03,$5500,0.36,0.03,0.03,2.76,0,0.28,0.53,0.42,0.18,0.16,0.05,0.18,0.24,1.14,,2,TEX @ KC
+Jack Leiter,Texas Rangers,0.24-0.37,$8200,2.94,0.24,0.37,4.43,1,0,5.04,4.37,2.74,2.48,0.59,2.31,4.47,1.33,,24.1,TEX @ KC
+Robbie Ray,San Francisco Giants,0.33-0.39,$9500,3.41,0.33,0.39,3.53,1,0,5.56,4.81,2.49,2.18,0.74,2.42,6.18,1.3,,32.4,SF @ SD
+Nestor Cortes,San Diego Padres,0.32-0.31,$7600,3.7,0.32,0.31,3.41,1,0,5.35,4.55,2.2,2.03,0.83,1.91,4.81,1.21,,28.1,SF @ SD
+Mason Miller,San Diego Padres,0.03-0.03,$5500,0.42,0.03,0.03,3.45,0,0.29,0.54,0.47,0.22,0.21,0.06,0.25,0.36,1.34,,2.3,SF @ SD
+Ryan Walker,San Francisco Giants,0.02-0.02,$5500,0.24,0.02,0.02,3.61,0,0.21,0.39,0.35,0.17,0.16,0.03,0.11,0.18,1.18,,1.3,SF @ SD
+Brady Singer,Cincinnati Reds,0.39-0.27,$9200,3.01,0.39,0.27,3.89,1,0,5.36,5.07,2.67,2.31,0.79,1.76,4.76,1.28,,27.7,CIN @ LAA
+Victor Mederos,Los Angeles Angels,0.2-0.33,$5800,3.16,0.2,0.33,4.87,1,0,4.22,4.22,2.47,2.28,0.77,2.01,3.43,1.48,,18.3,CIN @ LAA
+Zac Gallen,Arizona Diamondbacks,0.41-0.18,$7900,3.22,0.41,0.18,4.19,1,0,4.9,4.57,2.58,2.28,0.51,1.46,4.47,1.23,,25.4,CLE @ ARI
+Emmanuel Clase,Cleveland Guardians,0.02-0.02,$5500,0.2,0.02,0.02,2.84,0,0.17,0.31,0.25,0.11,0.1,0.01,0.07,0.11,1.04,,1.1,CLE @ ARI
+A.J. Puk,Arizona Diamondbacks,0.03-0.04,$5500,0.38,0.03,0.04,3.34,0,0.33,0.62,0.54,0.25,0.23,0.13,0.16,0.24,1.12,,2.1,CLE @ ARI
+Gavin Williams,Cleveland Guardians,0.21-0.54,$8700,2.3,0.21,0.54,6.96,1,0,5.16,5.57,4.45,3.99,0.87,3.35,4.68,1.73,,20,CLE @ ARI
+Tyler Kinley,Atlanta Braves,0.03-0.04,$5500,0.44,0.03,0.04,5.32,0,0.37,0.68,0.74,0.44,0.4,0.07,0.39,0.45,1.65,,2.4,CHW @ ATL
+Spencer Strider,Atlanta Braves,0.52-0.15,$9300,3.82,0.52,0.15,3.36,1,0,5.61,4.29,2.37,2.1,0.64,1.62,6.59,1.05,,35.5,CHW @ ATL
+Yoendrys Gomez,Chicago White Sox,0.18-0.56,$6400,3.16,0.18,0.56,6.04,1,0,4.97,5.01,3.8,3.33,0.85,2.95,4.34,1.6,,20.2,CHW @ ATL
+Jordan Leasure,Chicago White Sox,0.01-0.01,$5500,0.15,0.01,0.01,4.63,0,0.13,0.25,0.25,0.14,0.13,0.05,0.13,0.13,1.51,,0.8,CHW @ ATL
+Kyle Freeland,Colorado Rockies,0.12-0.45,$6500,2.68,0.12,0.45,6.4,1,0,5.1,5.72,4.17,3.63,0.99,1.52,3.68,1.42,,17.4,LAD @ COL
+Yoshinobu Yamamoto,Los Angeles Dodgers,0.44-0.15,$10300,2.68,0.44,0.15,4.49,1,0,4.71,4.13,2.65,2.35,0.47,1.61,5.45,1.22,,27.6,LAD @ COL
+Aroldis Chapman,Boston Red Sox,0.03-0.03,$5500,0.4,0.03,0.03,1.55,0,0.28,0.52,0.35,0.1,0.09,0.04,0.18,0.25,1,,2.2,BAL @ BOS
+Dustin May,Boston Red Sox,0.29-0.28,$8500,2.88,0.29,0.28,4.49,1,0,5.07,4.93,2.94,2.53,0.77,1.59,4.51,1.29,,24.5,BAL @ BOS
+Trevor Rogers,Baltimore Orioles,0.3-0.36,$10500,2.54,0.3,0.36,4.79,1,0,5.49,5.73,3.39,2.92,0.69,1.73,5.18,1.36,,26.7,BAL @ BOS
+Felix Bautista,Baltimore Orioles,0.02-0.02,$5500,0.35,0.02,0.02,2.7,0,0.22,0.41,0.32,0.13,0.12,0.04,0.25,0.29,1.41,,1.9,BAL @ BOS
+Ryan Pressly,Chicago Cubs,0.03-0.03,N/A,N/A,0.03,0.03,4.23,0,0.27,0.49,0.47,0.25,0.23,0.06,0.19,0.24,1.34,,1.7,MIL @ CHC
+Trevor Megill,Milwaukee Brewers,0.02-0.03,$5500,0.31,0.02,0.03,2.19,0,0.23,0.44,0.32,0.12,0.11,0.03,0.16,0.21,1.1,,1.7,MIL @ CHC

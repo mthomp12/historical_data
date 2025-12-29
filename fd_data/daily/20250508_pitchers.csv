@@ -1,0 +1,17 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Kenley Jansen,Los Angeles Angels,0.02-0.03,$5500,0.36,0.02,0.03,4.15,0,0.24,0.44,0.42,0.22,0.2,0.07,0.15,0.39,1.28,,2,TOR @ LAA
+Chris Bassitt,Toronto Blue Jays,0.44-0.28,$9600,3.14,0.44,0.28,3.67,1,0,5.54,5.17,2.61,2.26,0.69,1.72,5.28,1.24,,30.1,TOR @ LAA
+Jeff Hoffman,Toronto Blue Jays,0.02-0.03,$5500,0.45,0.02,0.03,2.88,0,0.26,0.49,0.39,0.17,0.16,0.06,0.11,0.48,1.03,,2.5,TOR @ LAA
+Jose Soriano,Los Angeles Angels,0.23-0.44,$7300,3.05,0.23,0.44,4.53,1,0,5.2,5.38,2.88,2.62,0.66,1.93,3.94,1.41,,22.3,TOR @ LAA
+Jesus Luzardo,Philadelphia Phillies,0.37-0.32,$10200,2.96,0.37,0.32,4.14,1,0,5.62,5.27,2.75,2.58,0.58,1.56,5.7,1.22,,30.2,PHI @ TB
+Pete Fairbanks,Tampa Bay Rays,0.02-0.03,$5500,0.36,0.02,0.03,3,0,0.23,0.43,0.36,0.16,0.14,0.03,0.17,0.34,1.22,,2,PHI @ TB
+Jordan Romano,Philadelphia Phillies,0.03-0.03,$5500,0.29,0.03,0.03,7.82,0,0.27,0.5,0.68,0.47,0.43,0.14,0.18,0.41,1.72,,1.6,PHI @ TB
+Ryan Pepiot,Tampa Bay Rays,0.3-0.34,$7600,3.5,0.3,0.34,4.55,1,0,5.14,4.65,2.75,2.6,0.82,1.78,5.31,1.25,,26.6,PHI @ TB
+Tanner Scott,Los Angeles Dodgers,0.03-0.03,$5500,0.51,0.03,0.03,1.85,0,0.3,0.55,0.38,0.12,0.11,0.04,0.19,0.43,1.04,,2.8,LAD @ ARI
+A.J. Puk,Arizona Diamondbacks,0.02-0.02,$5500,0.35,0.02,0.02,3.23,0,0.2,0.38,0.32,0.15,0.14,0.05,0.13,0.34,1.19,,1.9,LAD @ ARI
+Brandon Pfaadt,Arizona Diamondbacks,0.3-0.3,$9100,2.56,0.3,0.3,5.01,1,0,4.67,4.61,2.86,2.6,0.84,1.46,4.54,1.3,,23.3,LAD @ ARI
+Yoshinobu Yamamoto,Los Angeles Dodgers,0.34-0.32,$10800,2.57,0.34,0.32,4.53,1,0,5.27,4.67,2.99,2.66,0.54,1.91,5.36,1.25,,27.8,LAD @ ARI
+Raisel Iglesias,Atlanta Braves,0.03-0.03,$5500,0.45,0.03,0.03,2.82,0,0.29,0.53,0.43,0.18,0.17,0.09,0.1,0.41,0.99,,2.5,CIN @ ATL
+Alexis Diaz,Cincinnati Reds,0.02-0.02,$5500,0.27,0.02,0.02,6.73,0,0.21,0.4,0.49,0.32,0.3,0.1,0.25,0.36,1.86,,1.5,CIN @ ATL
+Nick Lodolo,Cincinnati Reds,0.27-0.42,$8300,3.08,0.27,0.42,4.26,1,0,5.53,5.16,2.97,2.62,0.85,1.65,4.39,1.23,,25.6,CIN @ ATL
+Spencer Schwellenbach,Atlanta Braves,0.37-0.24,$8700,3.43,0.37,0.24,3.03,1,0,5.09,4.31,2,1.71,0.43,1.03,5.13,1.05,,29.8,CIN @ ATL

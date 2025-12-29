@@ -1,0 +1,24 @@
+player,team,winsLosses,salary,value,wins,losses,earnedRunsAvg,gamesStarted,saves,inningsPitched,hits,runs,earnedRuns,homeRuns,walks,strikeouts,walksPlusHitsPerInningsPitched,gamesPlayed,fantasy,gameInfo
+Bailey Ober,Minnesota Twins,0.33-0.3,$7700,3.36,0.33,0.3,4.42,1,0,5.3,5.39,2.85,2.6,1.03,1.23,4.7,1.25,,25.9,OAK @ MIN
+J.T. Ginn,Oakland Athletics,0.3-0.32,$6700,3.51,0.3,0.32,4.68,1,0,5.09,5.05,2.96,2.64,1.02,1.71,4.27,1.33,,23.5,OAK @ MIN
+Ryan Pressly,Chicago Cubs,0.02-0.03,N/A,N/A,0.02,0.03,4.23,0,0.24,0.46,0.44,0.23,0.21,0.06,0.18,0.22,1.34,,1.5,MIL @ CHC
+Colin Rea,Chicago Cubs,0.3-0.41,$7800,3.0,0.3,0.41,4.72,1,0,5.4,5.38,3.13,2.83,0.93,1.65,4.07,1.3,,23.4,MIL @ CHC
+Trevor Megill,Milwaukee Brewers,0.02-0.03,$5500,0.35,0.02,0.03,2.19,0,0.25,0.48,0.35,0.13,0.12,0.03,0.17,0.23,1.1,,1.9,MIL @ CHC
+Jacob Misiorowski,Milwaukee Brewers,0.33-0.29,$9800,2.53,0.33,0.29,4.03,1,0,4.48,3.73,2.25,2.01,0.59,2.17,4.65,1.32,,24.8,MIL @ CHC
+JP Sears,San Diego Padres,0.31-0.27,$7200,3.71,0.31,0.27,3.11,1,0,4.89,4.07,1.95,1.69,0.61,1.47,4.54,1.13,,26.7,SF @ SD
+Mason Miller,San Diego Padres,0.03-0.03,$5500,0.38,0.03,0.03,3.39,0,0.27,0.5,0.43,0.2,0.19,0.06,0.22,0.33,1.32,,2.1,SF @ SD
+Ryan Walker,San Francisco Giants,0.02-0.03,$5500,0.27,0.02,0.03,3.52,0,0.23,0.43,0.38,0.18,0.17,0.03,0.12,0.19,1.16,,1.5,SF @ SD
+Landen Roupp,San Francisco Giants,0.25-0.36,$6400,3.62,0.25,0.36,3.67,1,0,4.53,4.37,2.11,1.84,0.4,2,4.11,1.41,,23.2,SF @ SD
+Chris Martin,Texas Rangers,0.02-0.02,$5500,0.25,0.02,0.02,2.53,0,0.21,0.4,0.31,0.12,0.11,0.05,0.06,0.13,0.93,,1.4,TEX @ KC
+Carlos Estevez,Kansas City Royals,0.03-0.03,$5500,0.36,0.03,0.03,2.72,0,0.28,0.53,0.42,0.17,0.16,0.05,0.18,0.24,1.13,,2,TEX @ KC
+Tanner Gordon,Colorado Rockies,0.15-0.46,$6200,2.66,0.15,0.46,6.75,1,0,4.8,5.54,4.11,3.6,0.92,1.51,3.6,1.47,,16.5,LAD @ COL
+Martin Perez,Chicago White Sox,0.2-0.31,$8200,2.41,0.2,0.31,4.53,1,0,4.05,3.67,2.29,2.04,0.41,2.19,3.79,1.45,,19.8,CHW @ ATL
+Tyler Kinley,Atlanta Braves,0.03-0.03,$5500,0.36,0.03,0.03,5.24,0,0.3,0.56,0.6,0.36,0.33,0.06,0.32,0.37,1.63,,2,CHW @ ATL
+Hurston Waldrep,Atlanta Braves,0.34-0.26,$9100,3.02,0.34,0.26,4.05,1,0,5.04,4.35,2.49,2.27,0.66,1.47,5.16,1.16,,27.5,CHW @ ATL
+Jordan Leasure,Chicago White Sox,0.02-0.02,$5500,0.24,0.02,0.02,4.58,0,0.2,0.37,0.36,0.2,0.19,0.08,0.19,0.2,1.51,,1.3,CHW @ ATL
+Pete Fairbanks,Tampa Bay Rays,0.03-0.03,$5500,0.36,0.03,0.03,2.68,0,0.28,0.53,0.42,0.17,0.16,0.03,0.18,0.23,1.12,,2,NYY @ TB
+David Bednar,New York Yankees,0.02-0.02,$5500,0.25,0.02,0.02,2.85,0,0.21,0.4,0.32,0.14,0.13,0.03,0.12,0.15,1.12,,1.4,NYY @ TB
+Drew Rasmussen,Tampa Bay Rays,0.34-0.2,$9200,2.82,0.34,0.2,3.69,1,0,4.96,4.56,2.23,2.03,0.75,1.16,4.4,1.16,,25.9,NYY @ TB
+Cam Schlittler,New York Yankees,0.26-0.41,$8000,3.13,0.26,0.41,4.59,1,0,5.3,4.84,3.01,2.7,0.91,2.2,4.76,1.33,,25,NYY @ TB
+Nick Martinez,Cincinnati Reds,0.37-0.3,$7500,3.71,0.37,0.3,3.38,1,0,5.7,5.24,2.47,2.14,0.71,1.49,4.26,1.18,,27.8,CIN @ LAA
+Yusei Kikuchi,Los Angeles Angels,0.29-0.35,$9600,3.32,0.29,0.35,3.82,1,0,5.71,5.21,2.59,2.42,0.71,1.99,6.16,1.26,,31.9,CIN @ LAA
